@@ -1,2 +1,2 @@
 # WheelFighter
-demo game
+Demo game
