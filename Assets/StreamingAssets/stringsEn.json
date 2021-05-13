@@ -1,0 +1,14 @@
+{
+	"Strings" : [
+		{ "Key" : "play",      "Value" : "Play"      },
+		{ "Key" : "buy",       "Value" : "Buy"       },
+		{ "Key" : "shop",      "Value" : "Shop"      },
+		{ "Key" : "victory",   "Value" : "Victory"   },
+		{ "Key" : "loss",      "Value" : "Loss"      },
+		{ "Key" : "go_on",     "Value" : "Go on!"    },
+		{ "Key" : "reward",    "Value" : "Reward:"   },
+		{ "Key" : "total",     "Value" : "Total:"    },
+		{ "Key" : "continue",  "Value" : "Continue"  },
+		{ "Key" : "no_thanks", "Value" : "No thanks" }
+	]
+}

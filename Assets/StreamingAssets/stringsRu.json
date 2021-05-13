@@ -1,0 +1,14 @@
+{
+	"Strings" : [
+		{ "Key" : "play",      "Value" : "Играть"       },
+		{ "Key" : "buy",       "Value" : "Купить"       },
+		{ "Key" : "shop",      "Value" : "Магазин"      },
+		{ "Key" : "victory",   "Value" : "Победа"       },
+		{ "Key" : "loss",      "Value" : "Поражение"    },
+		{ "Key" : "go_on",     "Value" : "Вернуться!"   },
+		{ "Key" : "reward",    "Value" : "Награда:"     },
+		{ "Key" : "total",     "Value" : "Всего:"       },
+		{ "Key" : "continue",  "Value" : "Продолжить"   },
+		{ "Key" : "no_thanks", "Value" : "Нет, спасибо" }
+	]
+}

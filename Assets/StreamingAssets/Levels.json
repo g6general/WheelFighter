@@ -1,0 +1,404 @@
+{
+    "Blocks": [
+        {
+            "Levels": [
+                {
+                    "BarrierType": 2,
+                    "WheelType": 0,
+                    "WheelParamA": 150.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        90.0,
+                        270.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        180.0
+                    ]
+                },
+                {
+                    "BarrierType": 1,
+                    "WheelType": 10,
+                    "WheelParamA": 80.0,
+                    "WheelParamB": 100.0,
+                    "WheelParamC": 3.0,
+                    "PrizePositions": [
+                        50.0,
+                        180.0,
+                        320.0
+                    ],
+                    "BarrierPositions": [
+                        10.0,
+                        30.0,
+                        130.0,
+                        150.0,
+                        270.0,
+                        290.0
+                    ]
+                },
+                {
+                    "BarrierType": 3,
+                    "WheelType": 15,
+                    "WheelParamA": 170.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        140.0,
+                        160.0,
+                        180.0,
+                        200.0,
+                        220.0
+                    ],
+                    "BarrierPositions": [
+                        10.0,
+                        30.0,
+                        50.0,
+                        250.0,
+                        270.0,
+                        290.0
+                    ]
+                },
+                {
+                    "BarrierType": 0,
+                    "WheelType": 5,
+                    "WheelParamA": 150.0,
+                    "WheelParamB": 80.0,
+                    "WheelParamC": 20.0,
+                    "PrizePositions": [
+                        30.0,
+                        60.0,
+                        120.0,
+                        160.0,
+                        210.0,
+                        240.0,
+                        300.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        90.0,
+                        180.0,
+                        270.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Levels": [
+                {
+                    "BarrierType": 3,
+                    "WheelType": 1,
+                    "WheelParamA": 160.0,
+                    "WheelParamB": 20.0,
+                    "WheelParamC": 0.4,
+                    "PrizePositions": [
+                        0.0,
+                        30.0,
+                        60.0,
+                        90.0,
+                        120.0,
+                        150.0,
+                        180.0,
+                        210.0,
+                        240.0,
+                        270.0,
+                        300.0,
+                        330.0
+                    ],
+                    "BarrierPositions": []
+                },
+                {
+                    "BarrierType": 0,
+                    "WheelType": 11,
+                    "WheelParamA": 90.0,
+                    "WheelParamB": 50.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        300.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        30.0,
+                        60.0,
+                        120.0,
+                        150.0,
+                        240.0
+                    ]
+                },
+                {
+                    "BarrierType": 1,
+                    "WheelType": 16,
+                    "WheelParamA": 130.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        0.0,
+                        90.0,
+                        180.0,
+                        270.0
+                    ],
+                    "BarrierPositions": [
+                        30.0,
+                        60.0,
+                        120.0,
+                        150.0,
+                        210.0,
+                        240.0,
+                        300.0,
+                        330.0
+                    ]
+                },
+                {
+                    "BarrierType": 1,
+                    "WheelType": 6,
+                    "WheelParamA": 150.0,
+                    "WheelParamB": 120.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        60.0,
+                        180.0,
+                        300.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        120.0,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Levels": [
+                {
+                    "BarrierType": 3,
+                    "WheelType": 2,
+                    "WheelParamA": 120.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        120.0,
+                        150.0,
+                        300.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        30.0,
+                        60.0,
+                        90.0,
+                        180.0,
+                        210.0,
+                        240.0,
+                        270.0
+                    ]
+                },
+                {
+                    "BarrierType": 2,
+                    "WheelType": 12,
+                    "WheelParamA": 120.0,
+                    "WheelParamB": 120.0,
+                    "WheelParamC": 0.800000011920929,
+                    "PrizePositions": [
+                        30.0,
+                        120.0,
+                        210.0,
+                        300.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        90.0,
+                        180.0,
+                        270.0
+                    ]
+                },
+                {
+                    "BarrierType": 1,
+                    "WheelType": 17,
+                    "WheelParamA": 240.0,
+                    "WheelParamB": 120.0,
+                    "WheelParamC": 0.800000011920929,
+                    "PrizePositions": [
+                        90.0,
+                        270.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        180.0
+                    ]
+                },
+                {
+                    "BarrierType": 0,
+                    "WheelType": 7,
+                    "WheelParamA": 120.0,
+                    "WheelParamB": 50.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        0.0,
+                        180.0
+                    ],
+                    "BarrierPositions": [
+                        90.0,
+                        270.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Levels": [
+                {
+                    "BarrierType": 1,
+                    "WheelType": 3,
+                    "WheelParamA": 150.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        0.0,
+                        180.0
+                    ],
+                    "BarrierPositions": [
+                        60.0,
+                        90.0,
+                        120.0,
+                        240.0,
+                        270.0,
+                        300.0
+                    ]
+                },
+                {
+                    "BarrierType": 2,
+                    "WheelType": 13,
+                    "WheelParamA": 100.0,
+                    "WheelParamB": 200.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        0.0,
+                        180.0
+                    ],
+                    "BarrierPositions": [
+                        30.0,
+                        150.0,
+                        210.0,
+                        330.0
+                    ]
+                },
+                {
+                    "BarrierType": 2,
+                    "WheelType": 18,
+                    "WheelParamA": -100.0,
+                    "WheelParamB": 200.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        30.0,
+                        150.0,
+                        210.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        0.0,
+                        180.0
+                    ]
+                },
+                {
+                    "BarrierType": 0,
+                    "WheelType": 8,
+                    "WheelParamA": -150.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        120.0,
+                        150.0,
+                        300.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        30.0,
+                        60.0,
+                        210.0,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Levels": [
+                {
+                    "BarrierType": 1,
+                    "WheelType": 4,
+                    "WheelParamA": 120.0,
+                    "WheelParamB": 30.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        60.0,
+                        150.0,
+                        240.0,
+                        330.0
+                    ],
+                    "BarrierPositions": [
+                        30.0,
+                        120.0,
+                        210.0,
+                        300.0
+                    ]
+                },
+                {
+                    "BarrierType": 3,
+                    "WheelType": 14,
+                    "WheelParamA": 120.0,
+                    "WheelParamB": 120.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        270.0,
+                        360.0
+                    ],
+                    "BarrierPositions": [
+                        90.0,
+                        180.0
+                    ]
+                },
+                {
+                    "BarrierType": 1,
+                    "WheelType": 19,
+                    "WheelParamA": 0.0,
+                    "WheelParamB": 120.0,
+                    "WheelParamC": 0.5,
+                    "PrizePositions": [
+                        330.0,
+                        0.0,
+                        30.0,
+                        150.0,
+                        180.0,
+                        210.0
+                    ],
+                    "BarrierPositions": [
+                        60.0,
+                        90.0,
+                        120.0,
+                        240.0,
+                        270.0,
+                        300.0
+                    ]
+                },
+                {
+                    "BarrierType": 3,
+                    "WheelType": 9,
+                    "WheelParamA": -140.0,
+                    "WheelParamB": 0.0,
+                    "WheelParamC": 0.0,
+                    "PrizePositions": [
+                        30.0,
+                        60.0,
+                        210.0,
+                        240.0
+                    ],
+                    "BarrierPositions": [
+                        300.0,
+                        330.0,
+                        120.0,
+                        150.0
+                    ]
+                }
+            ]
+        }
+    ]
+}
